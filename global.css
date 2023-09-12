@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-neon-led-light: "NEON LED Light";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-smi: 13px;
+  --font-size-11xl: 30px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue: #605c9c;
+
+  /* Gaps */
+  --gap-4xl: 23px;
+  --gap-81xl: 100px;
+  --gap-base: 16px;
+  --gap-8xs: 5px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-8xs: 5px;
+}
